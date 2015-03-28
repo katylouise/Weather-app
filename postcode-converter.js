@@ -1,7 +1,6 @@
 var http = require("http");
 
 
-
 //Print out error messages
 function printError(error) {
 	console.error(error.message);
@@ -10,7 +9,7 @@ function printError(error) {
 function returnLatLong(lat, lng) {
 	var latLong = [];
 	latLong.push(lat, lng);
-	return latLong;
+	console.log(latLong);
 	}
 
 
