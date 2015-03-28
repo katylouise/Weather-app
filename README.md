@@ -1,0 +1,1 @@
+This is an app I am in the process of creating to use two APIs.  One takes a postcode and converts it to a latitude and longtitude. The second then takes this information to give the weather at that location.  It is a work in progress.
